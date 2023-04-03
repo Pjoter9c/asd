@@ -5,6 +5,7 @@ import android.os.Bundle
 // xddddd
 // jeszcze jeden
 // do mastera
+// od razu do mastera
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
